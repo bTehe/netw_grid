@@ -18,7 +18,7 @@ The insights from this project aim to enhance the understanding of the U.S. Powe
 ## Research Question
 As a starting point for our analytical journey, we propose the following potential research question:
 
-**"How does the structure of the U.S. Western States Power Grid contribute to its resilience against cascading failures, and what are the key network properties that influence its vulnerability to targeted attacks?"**
+**"How does the removal or failure of a node (transformer, substation, or generator) in the US power grid affect the overall connectivity and power distribution across the network?"**
 
 This research question aims to delve into the robustness of the power grid, examining how its complex structure can withstand disturbances and evaluating the crucial network properties that underpin its defenses against both random and intentional disruptions.
 
