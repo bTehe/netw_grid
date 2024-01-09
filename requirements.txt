@@ -1,0 +1,7 @@
+networkx
+matplotlib
+numpy
+powerlaw
+pandas
+scipy
+bct-python
